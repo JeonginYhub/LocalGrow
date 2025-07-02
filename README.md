@@ -50,4 +50,4 @@
 
 ## 개발 추진 일정
 
-![Image](https://github.com/user-attachments/assets/602f0cdd-740e-4a25-be4d-68ab7b484894)
+![Image](https://github.com/user-attachments/assets/1bc51b32-3aab-42d2-8a63-c60523e221f3)
